@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[PrefListVC addRepeatingItem:]:PrefListVC.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "button.tag">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[AppDelegate application:handleOpenURL:]:AppDelegate.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "url.value">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[PrefListVC tableView:didSelectRowAtIndexPath:]:PrefListVC.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[FileDialogVC setSourceType:]:FileDialogVC.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[DBSession sharedSession]">
+            </PersistentString>
+            <PersistentString
+               value = "[DBSession sharedSession].isLinked">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[PrefListVC deleteRepeatingItem:]:PrefListVC.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "button.tag">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>HueColors</key>
+	<string>x</string>
+	<key>Camera</key>
+	<string>x</string>
+	<key>Navigate</key>
+	<string>x</string>
+	<key>AVMediaSelector</key>
+	<string>x</string>
+	<key>Web</key>
+	<string>x</string>
+	<key>Info</key>
+	<string>x</string>
+	<key>MediaCenter</key>
+	<string>x</string>
+</dict>
+</plist>
